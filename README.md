@@ -21,16 +21,11 @@ Locate your command line location to folder with manage.py file and type python 
 You can interract with database by going to admin panel. But firstly your need to create super user. Type python manage.py createsuperuser. Now you have a super user who can use admin panel and edit database data.
 
 ### Examples
-Todo app allows you to create your own account where your tasks will be saved. Go to /registration, fill the fields and submit the form.
-![reg](https://user-images.githubusercontent.com/52863393/150379000-cb51e15f-a443-4069-a1ab-73d3912a394c.png)
-Then you can use an account to log in via login form on /login route
-![login](https://user-images.githubusercontent.com/52863393/150378998-26c2f1fc-8c3a-47ce-bb86-919f662fe693.png)
-By default you have no tasks an fresh account and the main page will look like this
-![index_no_tasks](https://user-images.githubusercontent.com/52863393/150378994-c2a84af1-5957-43ee-883a-d456db0b514c.png)
-Try to add a task you want to complete
-![index_one_tasks](https://user-images.githubusercontent.com/52863393/150378996-5f4f17a1-b8e4-4ada-988a-0a9a3e872f36.png)
-When the task is completed you can push 'complete' button and the task will move to 'completed' tasks. Also if you want to delete a task just push the button 'delete'
-![index](https://user-images.githubusercontent.com/52863393/150378988-98c2bd98-2468-47a4-b339-85989336121c.png)
+It is the main page. Upload files you want and click submit
+![main](https://user-images.githubusercontent.com/52863393/156700934-35d47ae4-8bde-4c28-b483-eb1371d23f69.png)
+After submitting, on the new page you can see the results or go back if you want to
+![results](https://user-images.githubusercontent.com/52863393/156700937-481e4b59-78a6-4d8c-b72d-926715460da7.png)
+
 
 
 
